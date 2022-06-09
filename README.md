@@ -70,6 +70,4 @@
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
-
- <img width="1500" height="auto" align="center" alt="Kartik's github stats" 
-         src="https://github-profile-trophy.vercel.app/?username=KARTIK5667row=1&column=7&theme=darkhub&margin-w=15e" />
+<img width="1500" height="auto" align="center" alt="Manik's github stats" src="https://github-profile-trophy.vercel.app/?username=KARTIK5667&row=1&column=7&theme=darkhub&margin-w=15e"/>
