@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on web development <br>
 - 🌱 I’m currently learning everything 🤣 <br>
 - 👯 I’m looking to collaborate on Django Projects <br>
-- 📫 How to reach me: EMAIL:manikchadha0609@gmail.com, INSTA:[@manikchadha0609](https://www.instagram.com/manikchadha0609/) <br>
+- 📫 How to reach me: EMAIL:srivastavakartik60@gmail.com <br>
 - 😄 Pronouns: he/his<br>
  </p>
 ### Connect with me:
